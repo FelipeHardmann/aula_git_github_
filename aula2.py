@@ -128,7 +128,6 @@ usuarios = {
 
 # print(usuarios)
 
-# Atividade 9
 
 dicinario = {}
 
